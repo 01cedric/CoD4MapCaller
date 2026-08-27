@@ -3,3 +3,6 @@ A Tool for changing CoD4 Maps in Pre-Game and In-Game.
 
 # Supported Platforms
 PS3
+
+# Requirements
+[PS3Lib 4.5.1](https://github.com/iMCSx/PS3Lib)
